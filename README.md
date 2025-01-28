@@ -31,7 +31,9 @@ If you want to run this project locally, you can do so with a simple local serve
 2. In the project directory, run the following command:
    ```bash
    npx http-server
-![StopWatch](StopWatch/assets/Screenshot%202025-01-28%20111057.png)
+
+![StopWatch](asserts/Screenshot%202025-01-28%20111057.png)
+
 
 
 ### Key Sections in the README:
