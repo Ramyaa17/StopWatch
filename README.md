@@ -46,7 +46,4 @@ If you want to run this project locally, you can do so with a simple local serve
 7. **Contributing**: Encourages others to contribute to the project.
 8. **Acknowledgments**: A section to thank those whose work helped make this project possible.
 
-### How to Use:
-You can copy and paste the above content into a file called `README.md` in the root of your GitHub repository. This will allow others to quickly understand what your project is about and how they can use it or contribute.
 
-Let me know if you need any further adjustments!
